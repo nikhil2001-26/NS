@@ -1,2 +1,24 @@
-# NS
-Hello, This is my profile
+                                                                 Hi, I'm Nikhil
+
+                                     B.Tech in Information Technology · Python & AI Developer · Data Science Enthusiast
+
+About Me
+
+🎓 IT graduate from Chandigarh University
+
+💡 Passionate about Artificial Intelligence, Python Development, and Data Science
+
+🚀 Continuously exploring new technologies to build intelligent and efficient solutions
+
+Tech Stack
+
+Languages:
+Python · C · SQL · HTML · CSS · JavaScript
+
+Frameworks & Tools:
+Flask · Node.js · Pandas · NumPy · Matplotlib · Seaborn · TensorFlow · PyTorch · Git · MLflow
+
+🤝 Connect With Me
+linkedIn : https://www.linkedin.com/in/nikhil-singh-871aba230/
+Mail : nikhilsingh2622001@gmail.com
+
