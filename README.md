@@ -19,6 +19,6 @@ Frameworks & Tools:
 Flask · Node.js · Pandas · NumPy · Matplotlib · Seaborn · TensorFlow · PyTorch · Git · MLflow
 
 🤝 Connect With Me
-linkedIn : https://www.linkedin.com/in/nikhil-singh-871aba230/
+linkedIn : www.linkedin.com/in/nikhilashodiya
 Mail : nikhilsingh2622001@gmail.com
 
