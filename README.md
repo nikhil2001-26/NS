@@ -13,10 +13,10 @@ About Me
 Tech Stack
 
 Languages:
-Python · C · SQL · HTML · CSS · JavaScript
+Python · C · SQL · JavaScript · Node.Js · HTML · CSS
 
 Frameworks & Tools:
-Flask · Node.js · Pandas · NumPy · Matplotlib · Seaborn · TensorFlow · PyTorch · Git · MLflow
+Flask · Node.js · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · TensorFlow · PyTorch · Git · MLflow
 
 🤝 Connect With Me
 linkedIn : www.linkedin.com/in/nikhilashodiya
